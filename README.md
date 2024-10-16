@@ -1,10 +1,8 @@
-👋 Hi, I’m Ashwini Gour.
+👋 Hi, I’m Ashwini Gour. I’m currently learning advanced software engineering concepts as part of my Master’s degree at the University of Maryland, Colleg Park and gaining expertise in Cloud services.
 
 😄 Pronouns: He/Him.
 
 👀 I have a strong interest in building scalable, robust, cloud-based architectures and improving system scalability using technologies like AWS, Spring Boot, Java, Microservices, and Kafka. I’m passionate about designing efficient, high-performing systems and developing resilient solutions to tackle complex challenges, leveraging microservices architecture and event-driven systems.
-
-🌱 I’m currently learning advanced software engineering concepts as part of my Master’s degree at the University of Maryland, Colleg Park and gaining expertise in Cloud services.
 
 💞️ I’m looking to work in an environment where I can apply my full-stack development skills, contribute to cloud-native solutions, microservices architectures, and solve real-time problems while optimizing system performance.
 
