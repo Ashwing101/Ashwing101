@@ -1,4 +1,4 @@
-👋 Hi, I’m Ashwini Gour. I’m currently learning advanced software engineering concepts as part of my Master’s degree at the University of Maryland, Colleg Park and gaining expertise in Fullstack development.
+👋 Hi, I’m Ashwini Gour. I’m currently learning advanced software engineering concepts as part of my Master’s degree at the University of Maryland, College Park and gaining expertise in Fullstack development.
 
 😄 Pronouns: He/Him.
 
