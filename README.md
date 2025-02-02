@@ -6,7 +6,7 @@
 
 💞️ I’m looking to work in an environment where I can apply my full-stack development skills, contribute to cloud-native solutions, microservices architectures, and solve real-time problems while optimizing system performance.
 
-📫 How to reach me: ashwinigour999@gmail.com or [via LinkedIn](https://www.linkedin.com/in/ashwinigour/).
+📫 How to reach me: ashwinigour9@gmail.com or [via LinkedIn](https://www.linkedin.com/in/ashwinigour/).
 
 
 ⚡ Fun fact: I spend more time with Java than actual java (coffee)!
